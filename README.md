@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **web development as well as artificial intelligence.**
 
-- 🌱 I’m currently learning **MERN stacks and enhancing my concepts on AI/ML.**
+- 🌱 I’m currently learning **MERN stack and enhancing my concepts on AI/ML.**
 
 - 👯 I’m looking to collaborate on **any web based or AI/ML projects.**
 
